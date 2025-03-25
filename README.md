@@ -1,4 +1,4 @@
-Hi, I'm Dishan Samuel 👋
+<h1>Hi, I'm Dishan Samuel 👋<h1>
 
 Welcome to my GitHub profile! I'm a passionate developer who enjoys working on a variety of projects ranging from bash scrip tool to webdev. Below you'll find an overview of my work, technologies I work with, and some useful links to help you explore.
 🧑‍💻 About Me
@@ -19,7 +19,6 @@ Start_Quit Services [Underwork]
 A Simple bash tool which detects unwanted services in a linux system and quits them
 
 
-[Include any other projects you want to highlight in this format.]
 🛠️ Technologies & Tools
 
     Languages: golang, python, bash

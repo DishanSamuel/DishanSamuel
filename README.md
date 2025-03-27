@@ -1,8 +1,9 @@
-![](./pixels-neon.gif)
+![](./banner-01.gif)
 
 <h1>Hi, I'm Dishan Samuel 👋</h1>
 
-<p>Welcome to my GitHub profile! I'm a passionate developer who enjoys working on a variety of projects ranging from bash script tools to golang programs. Below you'll find an overview of my work, technologies I work with, and some useful links to help you explore.</p>
+<p>Welcome to my GitHub profile! I'm a passionate developer who enjoys working on a variety of projects ranging from bash script tools to golang programs. 
+    Below you'll find an overview of my work, technologies I work with, and some useful links to help you explore.</p>
 
 <h2>🧑‍💻 About Me</h2>
 <ul>

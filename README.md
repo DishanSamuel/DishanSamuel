@@ -1,4 +1,4 @@
-![](./banner-01.gif)
+![](./pixels-neon.gif)
 
 <h1>Hi, I'm Dishan Samuel 👋</h1>
 

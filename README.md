@@ -17,7 +17,7 @@
 <p>Here are a few of the projects that I’ve worked on. Feel free to explore them!</p>
 
 <ul>
-    <li><strong>Start_Quit Services [Updates Pending]</strong><br>A simple Bash tool that detects unwanted services in a Linux system and quits them.</li>
+    <li><strong>ManSyc</strong><br>A simple Bash tool that detects unwanted services in a Linux system and quits them.</li>
 </ul>
 
 <h2>🛠️ Technologies & Tools</h2>

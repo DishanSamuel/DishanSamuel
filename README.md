@@ -29,8 +29,8 @@
 
 <h2>📫 How to reach me</h2>
 <ul>
-    <li>📧 Email: <a href="mailto:dishansamuels@gmail.com">dishansamuels@gmail.com</a></li>
-    <li>💼 LinkedIn: <a href="https://www.linkedin.com/in/dishan-samuel-4a995b1a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Dishan Samuel LinkedIn</a></li>
+    <li>📧 Email: <a href="mailto:dishansamuels@gmail.com">MailMe</a></li>
+    <li>💼 LinkedIn: <a href="https://www.linkedin.com/in/dishan-samuel-4a995b1a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Let's Connect</a></li>
 </ul>
 
 <h2>🌱 Let's Connect!</h2>

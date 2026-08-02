@@ -1,7 +1,7 @@
 ![](./banner-01.gif)
 
 # 💫 About Me:
-### 👨‍💻 About Me<br><br>I engineer low-level system tools, automated infrastructure pipelines, and cloud-native architectures. <br>Currently pursuing a B.Tech in Computer Science and operating as a Software Engineer, my primary focus is building resilient, high-concurrency backend systems<br>and managing bare-metal Kubernetes environments.<br><br>- ⚙️ **Core Philosophy:** Minimal resource overhead, secure local networking, and strict process automation.<br>- 🔭 **Current Focus:** Optimizing sandboxed execution environments and self-hosted observability pipelines.
+### 👨‍💻 About Me<br><br>I engineer low-level system tools, automated infrastructure pipelines, and cloud-native architectures. <br>Currently pursuing a B.Tech in Computer Science and operating as a Software Engineer, my primary focus is building resilient, high-concurrency backend systems<br>and managing bare-metal Kubernetes environments.<br><br>⚙️ **Core Philosophy:** Minimal resource overhead, secure local networking, and strict process automation.<br>🔭 **Current Focus:** Optimizing sandboxed execution environments and self-hosted observability pipelines.
 
 
 ## 🌐 Socials:

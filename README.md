@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=200&section=header&text=S%20Dishan%20Samuel&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Systems%20%26%20DevOps%20Engineer&descAlignY=58&descSize=20" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=200&section=header&text=S%20Dishan%20Samuel&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Systems%20and%20DevOps%20Engineer&descAlignY=58&descSize=20" alt="Header" />
 
 <a href="https://github.com/DishanSamuel">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Systems+%26+DevOps+Engineer;Go+Backend+Developer;Linux+Enthusiast" alt="Typing SVG" />
@@ -9,7 +9,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dishansamuel/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7AA2F7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dishan.systems)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7AA2F7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dishan.systems/)
 
 </div>
 
